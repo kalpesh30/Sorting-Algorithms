@@ -22,19 +22,19 @@ for i in range(100000):
 st1 = time.time()
 sort.ins_sort(arr)
 en1 = time.time()
-print en1 - st1
+
 
 # For array size 10000
 st2 = time.time()
 sort.ins_sort(arr2)
 en2 = time.time()
-print en2 - st2
+
 
 # For array size 100000
 st3 = time.time()
 sort.ins_sort(arr3)
 en3 = time.time()
-print en3 - st3
+
 
 # Writing into the file
 filename = "AlgorithimTime.txt"
