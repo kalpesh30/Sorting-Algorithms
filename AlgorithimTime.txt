@@ -1,0 +1,17 @@
+Insertion Sort
+--------------
+1000 array size         242.948532104 microseconds
+10000 array size            2332.92579651 microseconds
+100000 array size           23762.9413605 microseconds
+
+Bubble Sort
+-----------
+1000 array size         0.0339720249176 seconds
+10000 array size            4.26686096191 seconds
+100000 array size           567.389574051 seconds
+
+Selection Sort
+--------------
+1000 array size         0.0192279815674 seconds
+10000 array size            2.26665282249 seconds
+100000 array size           383.478806973 seconds
